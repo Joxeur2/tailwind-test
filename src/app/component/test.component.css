@@ -1,4 +1,4 @@
-@reference '../../styles.css';
+@reference '../../styles/styles.css';
 
 .text-warning {
   @apply text-orange-500 font-bold;
