@@ -1,0 +1,5 @@
+@reference '../styles.css';
+
+.text-error {
+  @apply text-red-500 font-bold;
+}
